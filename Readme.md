@@ -1,4 +1,5 @@
-# Hi, I'm Mcsolkeens 👋
+# Hi, good to have you here — I'm James Oluosola Ogunleti
+### Welcome to my page!
 
 ## Cloud & DevOps Engineer | Building Secure, Scalable Infrastructure on AWS
 
@@ -96,63 +97,32 @@ Designed for reliability, retries, and fault tolerance.
 
 ---
 
-# Tech Stack
+### 🛠️ Tech Stack
 
-### Cloud
+**Languages:** Go, Python, JavaScript (Node.js), PHP, Bash
 
-- AWS
-- EC2
-- VPC
-- CloudFront
-- WAF
-- ALB
-- ECS
-- App Runner
-- Lambda
-- SQS
-- SES
-- Aurora MySQL
-- IAM
-- CloudWatch
-- Secrets Manager
+**Cloud Platform:** AWS (EC2, VPC, IAM, CloudFront, WAF, ALB, ECS, ECR, Lambda, SQS, SES, App Runner, Aurora MySQL, Secrets Manager, CloudWatch, SNS, Route 53)
 
-### Containers
+**Infrastructure as Code (IaC):** Terraform *(currently expanding expertise)*
 
-- Docker
-- Kubernetes
+**CI/CD:** GitHub Actions
 
-### Infrastructure as Code
+**Containers & Orchestration:** Docker, Kubernetes
 
-- Terraform *(actively expanding project portfolio)*
+**Kubernetes Security:** RBAC, Network Policies, Pod Security Standards, Service Accounts
 
-### CI/CD
+**Web Servers & Stacks:** Nginx, Apache, LEMP, LAMP, MERN
 
-- GitHub Actions
+**Databases:** MySQL, Amazon Aurora MySQL
 
-### Languages
+**Monitoring & Logging:** Amazon CloudWatch
 
-- Go
-- Python
-- JavaScript
-- Node.js
-- PHP
+**Networking:** VPC, Public & Private Subnets, Security Groups, Network ACLs, Application Load Balancer, CloudFront
 
-### Web
+**Linux & System Administration:** Ubuntu, Amazon Linux, CentOS, NFS, SSH, Systemd
 
-- Nginx
-- Apache
-- LEMP
-- LAMP
-- MERN
+**Version Control:** Git, GitHub
 
-### Systems
-
-- Linux Administration
-- NFS
-- Networking
-- Shell Scripting
-
----
 
 # Featured Projects
 
@@ -248,10 +218,9 @@ I enjoy building infrastructure that is:
 # Let's Connect
 
 - 💼 www.linkedin.com/in/mcsolkeens
-- 🌐 Portfolio
 - 📧 ogunleti.olusola@gmail.com
 
-*(Replace these with your actual links.)*
+
 
 ---
 
