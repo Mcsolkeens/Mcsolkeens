@@ -103,7 +103,7 @@ Designed for reliability, retries, and fault tolerance.
 
 **Cloud Platform:** AWS (EC2, VPC, IAM, CloudFront, WAF, ALB, ECS, ECR, Lambda, SQS, SES, App Runner, Aurora MySQL, Secrets Manager, CloudWatch, SNS, Route 53)
 
-**Infrastructure as Code (IaC):** Terraform *(currently expanding expertise)*
+**Infrastructure as Code (IaC):** Terraform
 
 **CI/CD:** GitHub Actions
 
